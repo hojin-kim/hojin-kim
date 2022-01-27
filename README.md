@@ -9,3 +9,7 @@ Grid[Table[Graphics[{
     Rotate[Rectangle[],RandomVariate[NormalDistribution[0, ((i - 7.1)^2 + (j - 8.1)^2)/70]]]
     }, ImageSize -> 30], {i, 0, 9}, {j, 0, 9}], Spacings -> {0, 0}]
 ```
+
+Link: 
+* [academic hompage][https://mathsci.kaist.ac.kr/~hjkim]
+* [github blog][https://hojin-kim.github.io]
