@@ -11,5 +11,5 @@ Grid[Table[Graphics[{
 ```
 
 Link: 
-* [academic hompage][https://mathsci.kaist.ac.kr/~hjkim]
-* [github blog][https://hojin-kim.github.io]
+* [academic hompage](https://mathsci.kaist.ac.kr/~hjkim)
+* [github blog](https://hojin-kim.github.io)
