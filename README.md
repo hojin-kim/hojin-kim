@@ -15,4 +15,4 @@ Grid[Table[
 
 Link: 
 * [academic hompage](https://mathsci.kaist.ac.kr/~hjkim)
-* [github blog](https://hojin-kim.github.io)
+* [github blog](https://blog.hojin.kim)
