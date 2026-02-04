@@ -14,6 +14,6 @@ Grid[Table[
 ```
 
 Link: 
-* [academic hompage](https://mathsci.kaist.ac.kr/~hjkim)
+* [academic hompage](https://hojin.kim)
 * [github blog](https://blog.hojin.kim)
 * [YouTube channel](https://www.youtube.com/@see_some_music) (not many videos there)
