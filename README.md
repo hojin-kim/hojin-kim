@@ -8,7 +8,7 @@ Grid[Table[
      RandomVariate[
       NormalDistribution[0, ((i - 7.5)^2 + (j - 7.5)^2)/50]]]}, 
    ImageSize -> 30], {i, 0, 9}, {j, 0, 9}], Spacings -> {0, 0}]
-(* Export["/directory/you/like/img.png", %] exports this image.)
+(* Export["/directory/of/the/img.png", %] exports this image.)
 ```
 
 Link: 
